@@ -7,5 +7,5 @@ This is a simple implementation to solve a very famous question
 
 >Why might it be conjectured that this was sent by a human-like being who has on$
 
-I'm using [png.py](https://github.com/drj11/pypng) to generate a PNG image out$
+I'm using [png.py](https://github.com/drj11/pypng) to generate a PNG image output
 
